@@ -1,0 +1,95 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "postcss-jingoal@latest",
+        "scope": null,
+        "escapedName": "postcss-jingoal",
+        "name": "postcss-jingoal",
+        "rawSpec": "latest",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\gitcode\\jingoal-code\\web-login\\grunt"
+    ]
+  ],
+  "_from": "postcss-jingoal@latest",
+  "_id": "postcss-jingoal@2.0.17",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/postcss-jingoal",
+  "_nodeVersion": "4.4.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/postcss-jingoal-2.0.17.tgz_1468932359809_0.8158816413488239"
+  },
+  "_npmUser": {
+    "name": "lirongfei123",
+    "email": "lirongfei985@gmail.com"
+  },
+  "_npmVersion": "2.15.0",
+  "_phantomChildren": {
+    "es6-promise": "2.3.0",
+    "js-base64": "2.1.9",
+    "source-map": "0.4.4"
+  },
+  "_requested": {
+    "raw": "postcss-jingoal@latest",
+    "scope": null,
+    "escapedName": "postcss-jingoal",
+    "name": "postcss-jingoal",
+    "rawSpec": "latest",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/postcss-jingoal/-/postcss-jingoal-2.0.17.tgz",
+  "_shasum": "3f7b06afe9f70f51a3cde5d54857d0bd4ac6805f",
+  "_shrinkwrap": null,
+  "_spec": "postcss-jingoal@latest",
+  "_where": "D:\\gitcode\\jingoal-code\\web-login\\grunt",
+  "author": {
+    "name": "lirongfei",
+    "email": "985867294@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lirongfei123/postcss-jingoal/issues"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "postcss": "^4.1.16"
+  },
+  "description": "PostCSS plugin for jingoal",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3f7b06afe9f70f51a3cde5d54857d0bd4ac6805f",
+    "tarball": "https://registry.npmjs.org/postcss-jingoal/-/postcss-jingoal-2.0.17.tgz"
+  },
+  "gitHead": "f4c4a47d1fbfc82350644ce59ad26c634407661e",
+  "homepage": "https://github.com/lirongfei123/postcss-jingoal#readme",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "opacity"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "lirongfei123",
+      "email": "lirongfei985@gmail.com"
+    }
+  ],
+  "name": "postcss-jingoal",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:lirongfei123/postcss-jingoal.git"
+  },
+  "scripts": {},
+  "version": "2.0.18"
+}

@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+
+.ielte10 .main_content .layout_left .left_panel {
+	margin-top: 12px;
+}
+
+.animate {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-transition: all .2s ease-out;
+	-moz-transition: all .2s ease-out;
+	-ms-transition: all .2s ease-out;
+	-o-transition: all .2s ease-out;
+	transition: all .2s ease-out;
+}
+
+.animate-inline-block {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+}
+
+.animate-opacity {
+	opacity: .5;
+	filter: alpha(opacity=50);
+}
+
+.animate-rgba {
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#fff, endcolorstr=#000, gradientType=0);
+	background: linear-gradient(#fff, #000);
+}
+
